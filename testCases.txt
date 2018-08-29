@@ -1,0 +1,14 @@
+indicate --input $input_log --report example_report --verbose --config $config_file --csv $file_to-create
+indicate --input $input_log --report example_report --verbose --csv $file_name_to-create
+indicate --report example_report --verbose --config $config_file --csv $file_name_to-create
+indicate --input $input  --verbose --config $config_filel --csv $file_to_create
+indicate --input $input --report $wrong_report_name --verbose --config $congi_file --csv $file_to_create
+indicate --input $input --report $wrong_report_name --config $congi_file --csv $file_to_create
+indicate --input $input --report example_report --verbose --group $group --config $config_file --csv $file_to_create
+
+
+
+
+
+
+
